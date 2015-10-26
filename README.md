@@ -1,2 +1,3 @@
 # mongo-tools
-random utility methods
+
+`fixMongoIds.js` - recursively remove `$oid`, `$date` properties from mongo object dumps
